@@ -2,7 +2,7 @@
 ***
 
 ### [Description]
-Vet Patient Booking is an application designed specifically for veterinarians, facilitating appointment management and detailed patient registration. With an intuitive and friendly interface, VetTurnos allows veterinarians and administrative staff to coordinate appointments efficiently, ensuring timely and organized care for each pet.
+Veterinary Cares is an application designed specifically for veterinarians, facilitating appointment management and detailed patient registration. With an intuitive and friendly interface, allows veterinarians and administrative staff to coordinate appointments efficiently, ensuring timely and organized care for each pet.
 
 ### [Tech]
 - React
